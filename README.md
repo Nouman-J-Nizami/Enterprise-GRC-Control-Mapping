@@ -42,18 +42,6 @@ Residual risk requires an accountable owner and documented decision.
 - Overdue regulatory-change assessments: 0
 - High-risk remediation completed on time: >90%
 
-### Suggested repository structure
-```text
-enterprise-compliance-control-mapping/
-├── README.md
-├── docs/
-├── risk-register/
-├── controls/
-├── evidence/
-├── templates/
-└── reports/
-```
-
 ### Disclaimer
 Synthetic portfolio case study. Not legal/regulatory advice, certification evidence, an audit opinion, or proof of real-world implementation.
 
