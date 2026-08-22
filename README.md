@@ -1,54 +1,36 @@
-# Enterprise GRC Control Mapping
+# Enterprise GRC Common Control Mapping & Assurance Assessment
 
-## Enterprise Compliance / GRC Case Study
+**Prepared by Nouman J.**
 
-**Framework:** GDPR • ISO 27001 • ISO 42001 • DORA • NIS2
+*GRC Operating Model • Risk • Controls • Regulatory Compliance*
 
-### Why this project exists
-The capstone brings the five preceding disciplines into one enterprise GRC operating model. The problem addressed is familiar in mature organisations: multiple compliance teams may test similar controls while maintaining separate evidence, ownership and remediation lists.
+## About the Project
 
-### Business scenario
-The fictional enterprise operates corporate IT, cloud services, AI-enabled processes and regulated business activities. The model aims to reduce duplicated effort without pretending that different frameworks are interchangeable.
+This synthetic enterprise case study models a common-control operating model that maps security, privacy, resilience and governance requirements across multiple frameworks.
 
-### Framework-specific focus
-Common-control library, cross-framework mapping, evidence reuse, regulatory change and enterprise GRC operating model.
+The objective is to reduce duplicated control activity while preserving framework-specific accountability and evidence.
 
-### Method
-The operating chain is Obligations → Risks → Common Controls → Framework Mapping → Evidence → Testing → Findings → Remediation → Management Reporting. A common control can support several frameworks, but each mapping retains its own rationale and accountability.
+## What This Project Demonstrates
 
-### Risk model
-Likelihood (L) and Impact (I): 1–5.
+- Common control ownership
+- Cross-framework mapping
+- Control rationalisation
+- Evidence governance
+- Regulatory change management
+- Integrated assurance
+- Exception governance
+- Executive GRC reporting
 
-**Inherent Risk = L × I**
+## Assessment
 
-Risk treatment: Reduce, Avoid, Transfer or Accept.
+The complete professional case study is available in:
 
-Residual risk requires an accountable owner and documented decision.
+`Enterprise_GRC_Control_Mapping_Assessment.pdf`
 
-### Key risk themes
-- Duplicated control ownership
-- Evidence cannot support assurance requests
-- Regulatory change is not reflected in controls
-- AI governance is disconnected from the wider GRC model
+## Professional Focus
 
-### Key findings
-- **F-01 — Control ownership (High)**: Framework teams duplicate activities because common-control accountability is fragmented.
-- **F-02 — Evidence reuse (High)**: Evidence is stored without consistent cross-framework metadata.
-- **F-03 — Regulatory change (High)**: Regulatory changes are manually tracked and impact assessment is inconsistent.
+**GRC Operating Model | Risk | Controls | Regulatory Compliance**
 
-### Example management metrics
-- Controls with accountable owner: 100%
-- Evidence reused across applicable frameworks: >60%
-- Overdue regulatory-change assessments: 0
-- High-risk remediation completed on time: >90%
+## Disclaimer
 
-### Disclaimer
-Synthetic portfolio case study. Not legal/regulatory advice, certification evidence, an audit opinion, or proof of real-world implementation.
-
----
-
-## Author
-
-**Nouman J. Nizami**
-
-Enterprise GRC • Cybersecurity • Compliance • Risk Management
+Synthetic portfolio case study created for professional demonstration. It does not represent a real client engagement, audit opinion, certification or production implementation.
