@@ -25,7 +25,7 @@ The objective is to reduce duplicated control activity while preserving framewor
 
 The complete professional case study is available in:
 
-[ISO_42001_AI_Governance_Risk_Assessment.pdf](./ISO_42001_AI_Governance_Risk_Assessment.pdf)
+[**Enterprise_GRC_Control_Mapping_Assessment.pdf**](./Enterprise_GRC_Control_Mapping_Assessment.pdf)
 
 ## Professional Focus
 
